@@ -63,6 +63,8 @@
     { "id":"P46", "name":"Beef Fillet Bistros Cut — per kg",              "cat":"meals",       "price":220,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P46.jpg", "stock":false },
     { "id":"P47", "name":"Nova Chef Chicken Strips 1kg",                  "cat":"meals",       "price":80,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P47.jpg", "stock":true },
     { "id":"P48", "name":"Pulled Pork in Sticky BBQ Sauce 1kg",           "cat":"meals",       "price":160,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P48.jpg", "stock":true },
-    { "id":"P49", "name":"Rich's Classic Precooked Pitas (12x100g Frozen)",   "cat":"bakery",       "price":75,     "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P49.jpg", "stock":true }
+    { "id":"P49", "name":"Rich's Classic Precooked Pitas (12x100g Frozen)", "cat":"bakery",    "price":75,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P49.jpg", "stock":true }
+    { "id":"P50", "name":"Früt Frozen Fruit Mango Chunks 1kg",             "cat":"bakery",     "price":107,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P50.jpg", "stock":true }
+    { "id":"P51", "name":"Früt Frozen Mixed Berries 1kg",                  "cat":"bakery",      "price":100,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P51.jpg", "stock":true }
   ]
 }
