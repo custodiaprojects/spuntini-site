@@ -27,7 +27,7 @@
     { "id":"P10", "name":"Spaghetti Divella 500g",                        "cat":"pasta",       "price":28,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P10.jpg", "stock":true },
     { "id":"P11", "name":"Riso Arborio Divella 1kg",                      "cat":"pasta",       "price":110,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P11.jpg", "stock":true },
     { "id":"P12", "name":"Tortelloni 4 Cheese Imported 500g",             "cat":"pasta",       "price":190,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P12.jpg", "stock":true },
-    { "id":"P13", "name":"Ravioli Beef 1kg",                              "cat":"pasta",       "price":200,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P13.jpg", "stock":true },
+    { "id":"P13", "name":"Ravioli Beef 1kg",                              "cat":"pasta",       "price":200,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P13.jpg", "stock":false },
     { "id":"P14", "name":"Ravioli Butternut 1kg",                         "cat":"pasta",       "price":190,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P14.jpg", "stock":true },
     { "id":"P15", "name":"Rodolfi Pizza Sauce Aromatic 500g",             "cat":"sauces",      "price":30,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P15.jpg", "stock":true },
     { "id":"P16", "name":"Rodolfi Sugo Arrabbiata 400g",                  "cat":"sauces",      "price":36,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P16.jpg", "stock":true },
