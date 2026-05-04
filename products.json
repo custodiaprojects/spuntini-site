@@ -47,8 +47,8 @@
     { "id":"P30", "name":"Extra Virgin Olive Oil 1l",                     "cat":"oils",        "price":220,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P30.jpg", "stock":true },
     { "id":"P31", "name":"Extra Virgin Olive Oil 250ml",                  "cat":"oils",        "price":75,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P31.jpg", "stock":true },
     { "id":"P32", "name":"Balsamic Cream De Nigris 500ml",                "cat":"oils",        "price":115,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P32.jpg", "stock":true },
-    { "id":"P33", "name":"Granoro Passata Tomato Puree 690g",             "cat":"tinned",      "price":40,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P33.jpg", "stock":true },
-    { "id":"P34", "name":"Whole Peel Tomato 400g",                        "cat":"tinned",      "price":27.50, "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P34.jpg", "stock":true },
+    { "id":"P33", "name":"Rodolfi Passata Tomato Puree 690g",             "cat":"tinned",      "price":40,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P33.jpg", "stock":true },
+    { "id":"P34", "name":"Whole Peel Tomato 400g",                        "cat":"tinned",      "price":27.50, "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P34.jpg", "stock":false },
     { "id":"P35", "name":"Rodolfi Whole Peeled Tomato 400g",              "cat":"tinned",      "price":26,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P35.jpg", "stock":true },
     { "id":"P36", "name":"Le 5 Stagioni Neapolitan Pizza Flour RED 1kg",  "cat":"bakery",      "price":38,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P36.jpg", "stock":true },
     { "id":"P37", "name":"Le 5 Stagioni Pasta Fresca Flour BLUE 1kg",    "cat":"bakery",      "price":38,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P37.jpg", "stock":true },
@@ -62,6 +62,7 @@
     { "id":"P45", "name":"Beef Lasagna 500g",                             "cat":"meals",       "price":70,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P45.jpg", "stock":true },
     { "id":"P46", "name":"Beef Fillet Bistros Cut — per kg",              "cat":"meals",       "price":220,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P46.jpg", "stock":true },
     { "id":"P47", "name":"Nova Chef Chicken Strips 1kg",                  "cat":"meals",       "price":80,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P47.jpg", "stock":true },
-    { "id":"P48", "name":"Pulled Pork in Sticky BBQ Sauce 1kg",           "cat":"meals",       "price":160,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P48.jpg", "stock":true }
+    { "id":"P48", "name":"Pulled Pork in Sticky BBQ Sauce 1kg",           "cat":"meals",       "price":160,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P48.jpg", "stock":true },
+    { "id":"P49", "name":"Rich's Classic Precooked Pitas (12x100g Frozen)",   "cat":"bakery",       "price":75,     "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P49.jpg", "stock":true }
   ]
 }
