@@ -60,7 +60,7 @@
     { "id":"P43", "name":"Streaky Bacon 1kg",                             "cat":"charcuterie", "price":145,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P43.jpg", "stock":true },
     { "id":"P44", "name":"Bolognaise Meat Sauce 1kg",                     "cat":"charcuterie", "price":165,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P44.jpg", "stock":true },
     { "id":"P45", "name":"Beef Lasagna 500g",                             "cat":"meals",       "price":70,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P45.jpg", "stock":true },
-    { "id":"P46", "name":"Beef Fillet Bistros Cut — per kg",              "cat":"meals",       "price":220,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P46.jpg", "stock":true },
+    { "id":"P46", "name":"Beef Fillet Bistros Cut — per kg",              "cat":"meals",       "price":220,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P46.jpg", "stock":false },
     { "id":"P47", "name":"Nova Chef Chicken Strips 1kg",                  "cat":"meals",       "price":80,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P47.jpg", "stock":true },
     { "id":"P48", "name":"Pulled Pork in Sticky BBQ Sauce 1kg",           "cat":"meals",       "price":160,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P48.jpg", "stock":true },
     { "id":"P49", "name":"Rich's Classic Precooked Pitas (12x100g Frozen)",   "cat":"bakery",       "price":75,     "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P49.jpg", "stock":true }
