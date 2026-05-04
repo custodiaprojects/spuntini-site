@@ -53,7 +53,7 @@
     { "id":"P36", "name":"Le 5 Stagioni Neapolitan Pizza Flour RED 1kg",  "cat":"bakery",      "price":38,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P36.jpg", "stock":true },
     { "id":"P37", "name":"Le 5 Stagioni Pasta Fresca Flour BLUE 1kg",    "cat":"bakery",      "price":38,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P37.jpg", "stock":true },
     { "id":"P38", "name":"Le 5 Stagioni Pizza Napoletana Green 1kg",      "cat":"bakery",      "price":38,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P38.jpg", "stock":true },
-    { "id":"P39", "name":"Millstone Farina 00 Flour 12.5kg",              "cat":"bakery",      "price":265,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P39.jpg", "stock":true },
+    { "id":"P39", "name":"Millstone Farina 00 Flour 12.5kg",              "cat":"bakery",      "price":240,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P39.jpg", "stock":true },
     { "id":"P40", "name":"Stagioni Pizza Flour Red 00 10kg",              "cat":"bakery",      "price":285,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P40.jpg", "stock":true },
     { "id":"P41", "name":"Wraps Plain Amaro (Pack of 12)",                "cat":"bakery",      "price":65,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P41.jpg", "stock":true },
     { "id":"P42", "name":"Prosciutto Crudo 70g",                          "cat":"charcuterie", "price":70,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P42.jpg", "stock":true },
