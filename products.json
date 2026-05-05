@@ -67,7 +67,8 @@
     { "id":"P50", "name":"Früt Frozen Fruit Mango Chunks 1kg",             "cat":"bakery",     "price":107,   "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P50.jpg", "stock":true },
     { "id":"P51", "name":"Früt Frozen Mixed Berries 1kg",                  "cat":"bakery",      "price":100,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P51.jpg", "stock":true },
     { "id":"P52", "name":"Mozzarella Bandini Loaf 2.3kg",                  "cat":"cheese",      "price":350,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P52.jpg", "stock":true },
-    { "id":"P53", "name":"Mozzarella Bocconcini 800g Bucket",               "cat":"cheese",      "price":190,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P53.jpg", "stock":true }
+    { "id":"P53", "name":"Mozzarella Bocconcini 800g Bucket",               "cat":"cheese",      "price":190,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P53.jpg", "stock":true },
+    { "id":"P54", "name":"Di Napoli Cherry Tomatoes 400g",                   "cat":"tinned",     "price":34,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P54.jpg", "stock":true }
 
   ]
 }
