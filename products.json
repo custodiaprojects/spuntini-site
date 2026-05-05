@@ -70,7 +70,8 @@
     { "id":"P53", "name":"Mozzarella Bocconcini 800g Bucket",               "cat":"cheese",      "price":190,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P53.jpg", "stock":true },
     { "id":"P54", "name":"Di Napoli Cherry Tomatoes 400g",                   "cat":"tinned",     "price":34,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P54.jpg", "stock":true },
     { "id":"P55", "name":"Chourico Whole Portuguese Local 1kg",             "cat":"charcuterie",  "price":175,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P55.jpg", "stock":true },
-    { "id":"P56", "name":"Pepperoni Premium Famasons +-300g",             "cat":"charcuterie",  "price":115,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P56.jpg", "stock":true }
+    { "id":"P56", "name":"Pepperoni Premium Famasons +-300g",             "cat":"charcuterie",  "price":115,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P56.jpg", "stock":true },
+    { "id":"P57", "name":"Salami Milano Sliced Imported 70g Packet",             "cat":"charcuterie",  "price":50,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P57.jpg", "stock":true }
 
   ]
 }
