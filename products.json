@@ -71,7 +71,8 @@
     { "id":"P54", "name":"Di Napoli Cherry Tomatoes 400g",                   "cat":"tinned",     "price":34,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P54.jpg", "stock":true },
     { "id":"P55", "name":"Chourico Whole Portuguese Local 1kg",             "cat":"charcuterie",  "price":175,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P55.jpg", "stock":true },
     { "id":"P56", "name":"Pepperoni Premium Famasons +-300g",             "cat":"charcuterie",  "price":115,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P56.jpg", "stock":true },
-    { "id":"P57", "name":"Salami Milano Sliced Imported 70g Packet",             "cat":"charcuterie",  "price":50,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P57.jpg", "stock":true }
-
+    { "id":"P57", "name":"Salami Milano Sliced Imported 70g Packet",         "cat":"charcuterie",  "price":50,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P57.jpg", "stock":true },
+    { "id":"P58", "name":"Molise Mozzarella Fior di Latte Frozen 100g",             "cat":"cheese",  "price":68,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P58.jpg", "stock":true },
+    { "id":"P57", "name":"Molise Buffalo's Mozzarella Traditional Frozen 125g",      "cat":"cheese",  "price":80,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P59.jpg", "stock":true }
   ]
 }
