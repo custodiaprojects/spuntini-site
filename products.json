@@ -75,4 +75,14 @@
     { "id":"P58", "name":"Molise Mozzarella Fior di Latte Frozen 100g",             "cat":"cheese",  "price":68,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P58.jpg", "stock":true },
     { "id":"P57", "name":"Molise Buffalo's Mozzarella Traditional Frozen 125g",      "cat":"cheese",  "price":80,    "img":"https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/P59.jpg", "stock":true }
   ]
+    "coupons": [
+    {
+      "code": "SPUNTINI10",
+      "type": "percentage",
+      "value": 10,
+      "active": true,
+      "description": "10% off your entire order"
+    }
+  ]
+}
 }
