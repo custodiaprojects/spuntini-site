@@ -543,7 +543,7 @@
       "cat": "bundles",
       "price": 185,
       "img": "https://raw.githubusercontent.com/custodiaprojects/spuntini-images/main/B01.jpg",
-      "stock": true,
+      "stock": false,
       "badge": "Save R45"
     }
   ],
